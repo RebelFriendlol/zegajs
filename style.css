@@ -1,0 +1,20 @@
+body {
+    background: black;
+}
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #00E500;
+    font-size: 60px;
+    font-family: 'Corinthia', cursive;
+    font-family: 'Meow Script', cursive;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Source Sans 3', sans-serif;
+    letter-spacing: 7px;
+}
+  .dark-mode {
+    background-color: white;
+    color: black;
+  }
